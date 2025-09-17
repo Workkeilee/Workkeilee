@@ -4,6 +4,8 @@
     "email": "work.keilee@gmail.com"
   },
   "records": {
-    "CNAME": "workkeilee.github.io/My-personal-site"
-  }
+    "CNAME": "workkeilee.github.io"
+  },
+  "proxied": true
 }
+
